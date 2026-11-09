@@ -1,0 +1,9 @@
+# Binaries
+bot-lolidle-linux-nim
+*.exe
+*.o
+*.a
+nimcache/
+
+# Config secrets
+accounts.json

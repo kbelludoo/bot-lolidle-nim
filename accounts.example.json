@@ -1,0 +1,21 @@
+[
+  {
+    "id": "acc-1",
+    "name": "Personagem Principal",
+    "enabled": true,
+    "credentials": {
+      "token": "seu-token-de-sessao-ou-jwt",
+      "email": "user@exemplo.com",
+      "password": "senha-segura",
+      "origin": "https://lolidle.com"
+    },
+    "settings": {
+      "hunt_target": "selva-lobos",
+      "auto_hunt": true,
+      "auto_sell": true,
+      "auto_heal": true,
+      "auto_daily": true,
+      "arena_walk": true
+    }
+  }
+]
